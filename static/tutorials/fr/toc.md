@@ -4,30 +4,30 @@
 
 Découvrez les principales fonctionnalités de microStudio.
 
-[Menu principal](/tutorials/fr/tour/1_menu.md)
+[Menu principal](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/tour/1_menu.md)
 
-[Fenêtre projet](/tutorials/fr/tour/2_project.md)
+[Fenêtre projet](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/tour/2_project.md)
 
-[Premier projet](/tutorials/fr/tour/3_first_project.md)
+[Premier projet](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/tour/3_first_project.md)
 
 
 ## Programmation
 
 Apprenez à programmer en microScript, le langage facile mais puissant mis en œuvre dans microStudio.
 
-[Introduction](/tutorials/fr/programming/1_intro.md)
+[Introduction](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/programming/1_intro.md)
 
-[Variables](/tutorials/fr/programming/2_variables.md)
+[Variables](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/programming/2_variables.md)
 
-[Fonctions](/tutorials/fr/programming/3_functions.md)
+[Fonctions](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/programming/3_functions.md)
 
-[Listes](/tutorials/fr/programming/4_lists.md)
+[Listes](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/programming/4_lists.md)
 
-[Conditions](/tutorials/fr/programming/5_conditions.md)
+[Conditions](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/programming/5_conditions.md)
 
-[Boucles](/tutorials/fr/programming/6_loops.md)
+[Boucles](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/programming/6_loops.md)
 
-[Objets](/tutorials/fr/programming/7_objects.md)
+[Objets](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/programming/7_objects.md)
 
 ## Dessiner
 
@@ -35,17 +35,17 @@ Cette série vous apprend à dessiner sur l'écran avec votre code. Vous apprend
 
 [Formes](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/drawing/1_shapes.md)
 
-[Couleurs](/tutorials/fr/drawing/2_colors.md)
+[Couleurs](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/drawing/2_colors.md))
 
-[Lignes et polygones](/tutorials/fr/drawing/3_lines.md)
+[Lignes et polygones](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/drawing/3_lines.md)
 
-[Texte](/tutorials/fr/drawing/4_text.md)
+[Texte](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/drawing/4_text.md)
 
-[Sprites et maps](/tutorials/fr/drawing/5_sprites.md)
+[Sprites et maps](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/drawing/5_sprites.md)
 
-[Dégradés de couleurs](/tutorials/fr/drawing/6_gradients.md)
+[Dégradés de couleurs](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/drawing/6_gradients.md)
 
-[Transparence et transformations](/tutorials/fr/drawing/7_transforms.md)
+[Transparence et transformations](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/drawing/7_transforms.md)
 
 
 
@@ -53,12 +53,12 @@ Cette série vous apprend à dessiner sur l'écran avec votre code. Vous apprend
 
 Créez un jeu simple, complètement fonctionnel, en moins de 70 lignes de code !
 
-[Héros](/tutorials/fr/game/1_hero.md)
+[Héros](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/game/1_hero.md)
 
-[Mur et mouvement](/tutorials/fr/game/2_wall.md)
+[Mur et mouvement](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/game/2_wall.md)
 
-[Sauts et gravité](/tutorials/fr/game/3_jump.md)
+[Sauts et gravité](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/game/3_jump.md)
 
-[Lames et collisions](/tutorials/fr/game/4_blades.md)
+[Lames et collisions](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/game/4_blades.md)
 
-[Game over ... et améliorations !](/tutorials/fr/game/5_gameloop.md)
+[Game over ... et améliorations !](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/game/5_gameloop.md)
