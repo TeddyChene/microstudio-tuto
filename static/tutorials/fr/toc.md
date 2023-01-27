@@ -33,7 +33,7 @@ Apprenez à programmer en microScript, le langage facile mais puissant mis en œ
 
 Cette série vous apprend à dessiner sur l'écran avec votre code. Vous apprendrez à dessiner des formes, des lignes, à définir des couleurs, dessiner des sprites, appliquer des rotations, la transparence etc.
 
-[Formes]([/tutorials/fr/drawing/1_shapes.md](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/drawing/1_shapes.md)
+[Formes](https://raw.githubusercontent.com/TeddyChene/microstudio-tuto/main/static/tutorials/fr/drawing/1_shapes.md)
 
 [Couleurs](/tutorials/fr/drawing/2_colors.md)
 
